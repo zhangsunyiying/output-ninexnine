@@ -10,6 +10,6 @@ int main()
             result=i*j;
             printf("%d*%d=%-3d",i,j,result);
         }
-    printf("\n"); /*每一行后换行*/
+    printf("\n");
     }
 }
